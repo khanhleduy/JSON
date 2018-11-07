@@ -1,0 +1,18 @@
+{
+	"language":{
+		"en":{
+			"name" : "Khanh handsome",
+			"address" : "Thanh hoa",
+			"course1" : "Android",
+			"course2" : "PHP&MySQL",
+			"course3" : "IOS"
+		},
+		"vn" : {
+			"name" : " khanh đẹp trai",
+			"address" : "Thanh hóa",
+			"course1" : "Lập trình android",
+			"course2" : "Lập trình PHP & MySQL",
+			"course3" : "Lập trình ios"
+		}
+	}
+}
